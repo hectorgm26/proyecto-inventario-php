@@ -13,7 +13,7 @@ Este proyecto es una aplicación de práctica que implementa el patrón Modelo-V
 ## Requisitos
 
 * Servidor web compatible con PHP (por ejemplo, Apache).
-* PHP instalado (versión 7.4 o superior recomendada).
+* PHP instalado (recomendada desde V. 7 en adelante, de preferencia 8).
 * Servidor de base de datos MySQL.
 
 ## Instalación
